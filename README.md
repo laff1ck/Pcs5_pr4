@@ -1,6 +1,10 @@
 # pr Практическая работа №4
 Хмырин Алексей Андреевич ЭФБО-02-22
 
+
+https://github.com/user-attachments/assets/2e911e60-657f-4bc0-922d-b5f4c4fed5ca
+
+
 A new Flutter project.
 
 ## Getting Started
